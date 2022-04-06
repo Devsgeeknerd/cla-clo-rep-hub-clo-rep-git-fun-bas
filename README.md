@@ -1,3 +1,8 @@
+<!-- TITLE -->
+# Treinamento de WordPress
+
+* ***Conteúdo do Treinamento:***
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
