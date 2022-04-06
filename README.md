@@ -10,6 +10,7 @@
 * [ ] Experts do E-commerce.
 * [ ] Funil de Vendas no WordPress na Pratica.
 * [ ] Loja de Dropshipping no WordPress.
+* [ ] Loja Virtual Para Iniciantes.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
@@ -39,7 +40,7 @@
 <!-- ## MEU PROCESSO -->
 
 <!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+<!-- ### CONSTRUÍDO COM -->
 
 <!-- WHAT I LEARNED -->
 <!-- ### O QUE APRENDI -->
