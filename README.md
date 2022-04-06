@@ -5,6 +5,7 @@
 
 * [ ] Catálogo de Produtos no WordPress.
 * [ ] Do Photoshop ao Elementor.
+* [ ] EAD Masters.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
