@@ -8,6 +8,7 @@
 * [ ] EAD Masters.
 * [ ] Elementor Pro.
 * [ ] Experts do E-commerce.
+* [ ] Funil de Vendas no WordPress na Pratica.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
