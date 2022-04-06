@@ -17,6 +17,7 @@
 * [ ] Pix no WooCommerce.
 * [ ] Plataforma EAD no WordPress.
 * [ ] Rastreio Dos Correios no WooCommerce.
+* [ ] SEO Para WooCommerce.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
