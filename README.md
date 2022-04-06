@@ -11,6 +11,7 @@
 * [ ] Funil de Vendas no WordPress na Pratica.
 * [ ] Loja de Dropshipping no WordPress.
 * [ ] Loja Virtual Para Iniciantes.
+* [ ] Maquina de Visitantes.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
