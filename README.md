@@ -9,6 +9,7 @@
 * [ ] Elementor Pro.
 * [ ] Experts do E-commerce.
 * [ ] Funil de Vendas no WordPress na Pratica.
+* [ ] Loja de Dropshipping no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
