@@ -16,6 +16,7 @@
 * [ ] Marketplace Masters.
 * [ ] Pix no WooCommerce.
 * [ ] Plataforma EAD no WordPress.
+* [ ] Rastreio Dos Correios no WooCommerce.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
