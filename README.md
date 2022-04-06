@@ -18,6 +18,7 @@
 * [ ] Plataforma EAD no WordPress.
 * [ ] Rastreio Dos Correios no WooCommerce.
 * [ ] SEO Para WooCommerce.
+* [ ] Site de Afiliados no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
