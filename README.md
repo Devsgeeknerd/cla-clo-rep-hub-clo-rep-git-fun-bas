@@ -15,6 +15,7 @@
 * [ ] Marketplace de Serviços no WordPress.
 * [ ] Marketplace Masters.
 * [ ] Pix no WooCommerce.
+* [ ] Plataforma EAD no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
