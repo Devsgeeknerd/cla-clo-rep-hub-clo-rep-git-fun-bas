@@ -13,7 +13,7 @@
 * [ ] Loja Virtual Para Iniciantes.
 * [ ] Maquina de Visitantes.
 * [ ] Marketplace de Serviços no WordPress.
-* [ ] 
+* [ ] Marketplace Masters.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
