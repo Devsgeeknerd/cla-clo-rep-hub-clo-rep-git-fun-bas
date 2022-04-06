@@ -6,6 +6,8 @@
 * [ ] Catálogo de Produtos no WordPress.
 * [ ] Do Photoshop ao Elementor.
 * [ ] EAD Masters.
+* [ ] Elementor Pro.
+* [ ] Experts do E-commerce.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
