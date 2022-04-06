@@ -14,6 +14,7 @@
 * [ ] Maquina de Visitantes.
 * [ ] Marketplace de Serviços no WordPress.
 * [ ] Marketplace Masters.
+* [ ] Pix no WooCommerce.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
