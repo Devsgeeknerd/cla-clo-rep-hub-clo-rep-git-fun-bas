@@ -12,6 +12,8 @@
 * [ ] Loja de Dropshipping no WordPress.
 * [ ] Loja Virtual Para Iniciantes.
 * [ ] Maquina de Visitantes.
+* [ ] Marketplace de Serviços no WordPress.
+* [ ] 
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
