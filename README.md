@@ -23,7 +23,7 @@
 * [ ] Site de Classificados no WordPress.
 * [ ] Site de Imoveis no WordPres.
 * [ ] Site de Noticias Com Assinaturas no WordPress.
-* [ ] 
+* [ ] Site de Revenda de Hospedagem no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
