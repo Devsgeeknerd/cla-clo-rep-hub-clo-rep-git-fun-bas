@@ -20,6 +20,7 @@
 * [ ] SEO Para WooCommerce.
 * [ ] Site de Afiliados no WordPress.
 * [ ] Site de Agendamentos no WordPress.
+* [ ] Site de Classificados no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
