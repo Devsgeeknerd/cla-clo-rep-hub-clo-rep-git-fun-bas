@@ -25,6 +25,7 @@
 * [ ] Site de Noticias Com Assinaturas no WordPress.
 * [ ] Site de Revenda de Hospedagem no WordPress.
 * [ ] Site de Assinaturas no WordPress.
+* [ ] Site de Delivery no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
