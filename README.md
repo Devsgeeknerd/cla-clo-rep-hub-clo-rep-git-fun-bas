@@ -22,6 +22,8 @@
 * [ ] Site de Agendamentos no WordPress.
 * [ ] Site de Classificados no WordPress.
 * [ ] Site de Imoveis no WordPres.
+* [ ] Site de Noticias Com Assinaturas no WordPress.
+* [ ] 
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
