@@ -21,6 +21,7 @@
 * [ ] Site de Afiliados no WordPress.
 * [ ] Site de Agendamentos no WordPress.
 * [ ] Site de Classificados no WordPress.
+* [ ] Site de Imoveis no WordPres.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
