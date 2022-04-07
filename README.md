@@ -19,6 +19,7 @@
 * [ ] Rastreio Dos Correios no WooCommerce.
 * [ ] SEO Para WooCommerce.
 * [ ] Site de Afiliados no WordPress.
+* [ ] Site de Agendamentos no WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
