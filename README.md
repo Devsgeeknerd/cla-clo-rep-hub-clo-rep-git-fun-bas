@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Treinamento de WordPress
 
-* ***Conteúdo do Treinamento:***
+***Conteúdo do Treinamento:***
 
 * [ ] Catálogo de Produtos no WordPress.
 * [ ] Do Photoshop ao Elementor.
